@@ -14,7 +14,7 @@
   <!--<img src="https://readme-stats-nine-lime.vercel.app/api?username=joleasouz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=en&hide_border=false" height="140"/>
   <img src="https://readme-stats-nine-lime.vercel.app/api/top-langs?username=joleasouz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=rose_pine&hide_border=false" height="150"/>-->
   <img src=https://github-readme-stats.shion.dev/api?username=joleasouz&theme=rose_pine&hide_border=false&include_all_commits=false&count_private=false/>
-  <img src=https://github-readme-stats.shion.dev/api/top-langs/?username=joleasouz&theme=rose_pine&hide_border=false&include_all_commits=false&count_private=false&layout=compact/>
+  <img src=https://github-readme-stats.shion.dev/api/top-langs/?username=joleasouz&theme=rose_pine&hide_border=false/>
 </div>
 
 ###
